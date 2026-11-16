@@ -14,34 +14,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushjish2005-byte&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
----
-
-<!-- ================= ABOUT ME ================= -->
-
-## 👨‍💻 About Me
-
-- 🎓 AI & Data Science student at **CGC Jhanjeri**
-- 💻 Interested in Python, Artificial Intelligence and Data Science.
-- 🌱 Currently learning **DSA, Java and Machine Learning**.
-- 🚀 Building practical projects to improve my development skills.
-- 🎯 Working towards becoming a skilled AI & Data Science developer.
-- 📍 Mohali, Punjab, India.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode" />
-</p>
-
-### Tools & Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
